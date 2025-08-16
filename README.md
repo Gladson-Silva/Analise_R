@@ -1,6 +1,7 @@
 # 📊 Dashboard Interativo para Análise Exploratória de Dados em R
 Este projeto de portfólio consiste em uma aplicação web desenvolvida em R com o framework Shiny. A ferramenta foi criada para automatizar e agilizar a etapa inicial e crucial da Análise Exploratória de Dados (AED), permitindo que analistas e cientistas de dados obtenham insights rápidos sobre a qualidade e a estrutura de seus conjuntos de dados.
 
+![Image](https://github.com/user-attachments/assets/4a25abbc-db32-44e9-93a6-ac99e5ac5677)
 
 ## 📜 Descrição do Projeto
 Em qualquer projeto de dados, a primeira fase envolve entender as variáveis, identificar problemas como dados faltantes `Nan`, verificar os tipos de dados e visualizar as distribuições. Este processo, embora vital, pode ser repetitivo. Esta aplicação centraliza essas tarefas em uma interface única e interativa.
